@@ -1,12 +1,18 @@
+<div align="center">
+  <img height="200" src="https://images.alphacoders.com/107/1073012.jpg"  />
+</div>
+
+###
+
 <h1 align="left">Приветствую вас в моем профиле, был бы рад если бы вы с ним ознакомились :(</h1>
 
 ###
 
-<h6 align="left"></h6>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h6 align="left"></h6>
 
 ###
 
