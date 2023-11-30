@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/KkBN1ZKByMSBO/giphy.gif?cid=ecf05e47hitqdzswa5p0y58baojs4ym2qk6o2ocaumzyh4p6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img src="https://media2.giphy.com/media/KkBN1ZKByMSBO/giphy.gif?cid=ecf05e47hitqdzswa5p0y58baojs4ym2qk6o2ocaumzyh4p6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
